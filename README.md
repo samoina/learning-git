@@ -5,15 +5,25 @@ This repository is all about going back to the basics of Git to have a deeper un
 
 ## Table of Contents 
 *[Project Description](#project-description)
+
 *[Badges](#badges)
+
 *[Project Status](#project-status)
+
 *[Project screenshots](#project-screenshots)
+
 *[Installation](#installation)
+
 *[Usage](#usage)
+
 *[Project Context](#project-context)
+
 *[Technologies](#technologies)
+
 *[Roadmap](#roadmap)
+
 *[Credits](#credits)
+
 *[License](#license)
 
 ## Project Description

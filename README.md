@@ -4,17 +4,17 @@ This repository is all about going back to the basics of Git to have a deeper un
 (Ideally, this section contains the name of the project and a brief description of the same. )
 
 ## Table of Contents 
-*[Project Description] (#project-description)
-*[Badges] (#badges)
-*[Project Status] (#project-status)
-*[Project screenshots] (#project-screenshots)
-*[Installation] (#installation)
-*[Usage] (#usage)
-*[Project Context] (#project-context)
-*[Technologies] (#technologies)
-*[Roadmap] (#roadmap)
-*[Credits] (#credits)
-*[License] (#license)
+*[Project Description](#project-description)
+*[Badges](#badges)
+*[Project Status](#project-status)
+*[Project screenshots](#project-screenshots)
+*[Installation](#installation)
+*[Usage](#usage)
+*[Project Context](#project-context)
+*[Technologies](#technologies)
+*[Roadmap](#roadmap)
+*[Credits](#credits)
+*[License](#license)
 
 ## Project Description
 In this section, write about what the project does. What differentiates it from other similar projects? This is also a wonderful place to include any **Features** that are a highlight within the project.
@@ -55,6 +55,6 @@ Are there any future ideas for the project? This is where to list them in the RE
 This section is all about appreciating the people that made the project possible, possibly with links to their profiles
 
 ## License
-If the project is open-sourced, it is important to say how it is licensed. This [link] (https://choosealicense.com/) provides more information on how to choose an open source license. Remember, not including a license means that one retains all the rights to the source code, and copyright laws therefore apply. To remove ambiguity, it is best to include a license.
+If the project is open-sourced, it is important to say how it is licensed. This [link](https://choosealicense.com/) provides more information on how to choose an open source license. Remember, not including a license means that one retains all the rights to the source code, and copyright laws therefore apply. To remove ambiguity, it is best to include a license.
 
 
